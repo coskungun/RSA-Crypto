@@ -89,7 +89,7 @@
                                     <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="120" id="awd-fL-fRA"/>
                                 </constraints>
                                 <color key="tintColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                <state key="normal" title="Cypher"/>
+                                <state key="normal" title="Encrypt"/>
                                 <connections>
                                     <action selector="cypherText:" destination="BYZ-38-t0r" eventType="touchUpInside" id="nHc-hO-DWC"/>
                                 </connections>
@@ -111,7 +111,7 @@
                                     <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="120" id="h2W-6V-Log"/>
                                 </constraints>
                                 <color key="tintColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                <state key="normal" title="Decypher"/>
+                                <state key="normal" title="Decrypt"/>
                                 <connections>
                                     <action selector="decypherText:" destination="BYZ-38-t0r" eventType="touchUpInside" id="3bs-5H-Jwg"/>
                                 </connections>
